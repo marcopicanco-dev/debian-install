@@ -228,7 +228,7 @@ sudo systemctl start mongod
 **Atualização do bundler update**
 
 ```
-
+Warning: the running version of Bundler (2.1.4) is older than the version that created the lockfile (2.4.19). We suggest you to upgrade to the version that created the lockfile by running `gem install bundler:2.4.19`.
 ```
 
 
