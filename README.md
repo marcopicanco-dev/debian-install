@@ -222,7 +222,7 @@ sudo systemctl start mongod
 **Ative o Mise pra que possa dectatar automaticamente as versões dos projetos**
 
 ```
-
+ echo 'eval "$(~/.local/bin/mise activate zsh)"' >> ~/.zshrc
 ```
 
 **Atualização do bundler update**
