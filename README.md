@@ -109,7 +109,8 @@ Discorrer sobre as preferências e outras opções de gerenciadores:
 ```shellscript
 curl https://mise.run | sh
 
-Adicione o Mise ao zshrc
+Adicione o Mise ao zshrc, ao final do arquivo
+#MISE
 export PATH="$PATH:$HOME/.local/bin"
 
 Recarregue o Zsh
