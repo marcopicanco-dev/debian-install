@@ -4,9 +4,9 @@
 <!-- (site para ícones: https://shields.io/ ) -->
  
 <img alt="Maintained" src="https://img.shields.io/badge/Maintained%3F-Yes-green">
-<img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/eddiecsilva/debian-post-install">
-<img alt="GitHub repo size" src="https://img.shields.io/github/repo-size/eddiecsilva/debian-post-install">
-<img alt="GitHub commit activity (branch)" src="https://img.shields.io/github/commit-activity/y/eddiecsilva/debian-post-install">
+<img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/marcopicanco.dev/debian-post-install">
+<img alt="GitHub repo size" src="https://img.shields.io/github/repo-size/marcopicanco.dev/debian-post-install">
+<img alt="GitHub commit activity (branch)" src="https://img.shields.io/github/commit-activity/y/marcopicanco.dev/debian-post-install">
 
 </p>
 
@@ -17,7 +17,7 @@ O documento abordará a instalação e configuração do Debian 12 Bookworm para
 * Configuração de Usuário e Privilégios – Adição do usuário ao sudoers.
 * Instalação de Pacotes Essenciais – Ferramentas de compilação e dependências do Ruby on Rails.
 * Configuração do Zsh e Oh My Zsh – Troca do shell padrão para Zsh.
-* Gerenciador de Versões (Mise) – Instalação e configuração para gerenciar versões do Ruby e Node.js.
+* Gerenciador de Versões (Mise) – Instalação e configuração para gerenciar versões do Ruby e Node.js.s
 * Instalação do Ruby on Rails – Configuração do Ruby, Bundler e Rails.
 * Configuração do Git e SSH – Personalização do Git e geração de chave SSH.
 * Instalação do MongoDB – Adição do repositório e configuração do banco de dados.
@@ -187,6 +187,7 @@ Adicionar o chave pública (configurações/SSH and GPG Keys)
 ```
 
 **Instalando o MongoDB**
+
 [MongoDB](https://www.mongodb.com/pt-br/docs/manual/tutorial/install-mongodb-on-debian/)
 ```
 
