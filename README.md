@@ -218,6 +218,17 @@ sudo systemctl start mongod
 
 
 ```
+**Ative o Mise pra que possa dectatar automaticamente as versões dos projetos**
+
+```
+
+```
+
+**Atualização do bundler update**
+
+```
+
+```
 
 
 **Adicione o mise à configuração do seu shell (bashrc ou zshrc)**
