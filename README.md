@@ -219,7 +219,8 @@ sudo systemctl start mongod
 
 
 ```
-**Ative o Mise pra que possa dectatar automaticamente as versões dos projetos**
+**Continua...**
+<!-- **Ative o Mise pra que possa dectatar automaticamente as versões dos projetos**
 
 ```
  echo 'eval "$(~/.local/bin/mise activate zsh)"' >> ~/.zshrc
@@ -251,7 +252,7 @@ RVM
 # Resultado final com neofetch.
 ```
 Descrição
-```
+``` -->
 <!-- </br>
 
 Faça o download da versão gratuita do [Davinci Resolve](https://www.blackmagicdesign.com/br/products/davinciresolve) no site oficial da Black Magic, em meu uso diário não tenho enfrentado nenhum problema com o instalador padrão além dos citados neste guia. 
