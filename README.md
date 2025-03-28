@@ -12,7 +12,7 @@
 
 
 # Descrição
-O documento abordará a instalação e configuração do Debian 12 Bookworm para desenvolvimento Ruby on Rails. O processo inclui:
+O documento abordará a pós-instalação e configuração do Debian 12 Bookworm para desenvolvimento Ruby on Rails. O processo inclui:
 <br>
 * Configuração de Usuário e Privilégios – Adição do usuário ao sudoers.
 * Instalação de Pacotes Essenciais – Ferramentas de compilação e dependências do Ruby on Rails.
