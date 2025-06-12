@@ -89,7 +89,7 @@ sh -c "$(curl -fsSL https://raw.githubusercontent.com/ohmyzsh/ohmyzsh/master/too
 ```shellscript
 Torne o Zsh o shell padrão
 
-chsh -s $(whish zsh)
+chsh -s $(which zsh)
 
 Verifique se a mudança ocorreu
 
